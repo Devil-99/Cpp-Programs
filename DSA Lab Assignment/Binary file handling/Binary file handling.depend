@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1566328439 source:e:\dkk lab assignment\binary file handling\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1566386801 source:e:\dsa lab assignment\binary file handling\main.c
+	<stdio.h>
+	<stdlib.h>
+

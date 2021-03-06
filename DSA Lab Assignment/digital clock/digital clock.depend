@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1568663792 source:e:\dsa lab assignment\digital clock\main.cpp
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<graphics.h>
+

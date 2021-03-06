@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1566326119 source:e:\practise\file handling\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1568651216 source:e:\dsa lab assignment\file handling\main.c
+	<stdio.h>
+	<stdlib.h>
+

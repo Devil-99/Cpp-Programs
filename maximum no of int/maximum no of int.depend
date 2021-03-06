@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554106240 source:d:\programs\maximum no of int\main.c
+	<stdio.h>
+	<stdlib.h>
+

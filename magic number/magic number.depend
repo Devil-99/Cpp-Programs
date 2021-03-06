@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550329395 source:a:\devil 2k19\magic number\main.c
+	<stdio.h>
+	<stdlib.h>
+

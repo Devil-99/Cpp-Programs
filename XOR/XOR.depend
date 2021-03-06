@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550224349 source:a:\devil 2k19\xor\main.c
+	<stdio.h>
+	<stdlib.h>
+

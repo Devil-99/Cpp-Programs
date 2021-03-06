@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551542401 source:a:\devil 2k19\string comperision\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

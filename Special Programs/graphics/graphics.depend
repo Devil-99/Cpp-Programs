@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1568718999 source:e:\special programs\graphics\main.cpp
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+	<dos.h>
+	<time.h>
+	<math.h>
+	<string.h>
+

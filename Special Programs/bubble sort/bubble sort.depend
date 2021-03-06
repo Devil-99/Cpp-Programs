@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551685390 source:a:\devil 2k19\bubble sort\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1563966983 source:e:\dkk lab assignment\lab assignment 1.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1564739641 source:e:\dkk lab assignment\lab assignment 1.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1566574891 source:e:\special programs\paliendrome\main.cpp
+	<iostream>
+	<string.h>
+

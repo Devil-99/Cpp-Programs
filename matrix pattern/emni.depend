@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550327488 source:a:\devil 2k19\emni\main.c
+	<stdio.h>
+	<stdlib.h>
+

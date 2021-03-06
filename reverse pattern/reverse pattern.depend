@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1552367376 source:a:\devil 2k19\reverse pattern\main.c
+	<stdio.h>
+	<stdlib.h>
+

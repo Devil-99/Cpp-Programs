@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551358519 source:a:\devil 2k19\address of the variable\main.c
+	<stdio.h>
+	<stdlib.h>
+
